@@ -4,8 +4,12 @@
   "description": "Coding Challenges Project is a collection of various programming problems aimed at improving problem-solving skills and understanding of different algorithms and data structures.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
