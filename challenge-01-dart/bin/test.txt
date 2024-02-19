@@ -1,0 +1,30 @@
+﻿# Build Your Own wc Tool
+
+This challenge is to build your own version of the Unix command line tool wc!
+
+The full challenge description can be found [here](https://codingchallenges.fyi/challenges/challenge-wc)
+
+## Installation
+
+To install the package, run the following command:
+
+```
+cd path/to/folder
+
+dart pub get
+
+```
+
+## Usage
+
+To use the package, run the following command:
+
+```
+cd bin
+
+dart challenge_01_dart.dart test.txt
+
+or
+
+cat test.txt | dart challenge_01_dart.dart
+```

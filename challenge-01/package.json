@@ -4,6 +4,7 @@
   "description": "This challenge is to build your own version of the Unix command line tool wc!",
   "main": "index.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -13,6 +14,6 @@
     "typescript": "^5.3.3"
   },
   "bin": {
-    "ccwc": "./index.ts"
+    "ccwc": "./index.js"
   }
 }
