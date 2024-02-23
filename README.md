@@ -9,3 +9,5 @@ You can find the full description of the project [here](https://codingchallenges
 #### Content
 
 - 01 - Build Your Own wc Tool [typescript](./challenge-01),  [dart](./challenge-01-dart)
+
+- 02 - Build Your Own URL Shortener [dart](./challenge-02-dart)
