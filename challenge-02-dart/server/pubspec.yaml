@@ -8,7 +8,9 @@ environment:
 
 dependencies:
   args: ^2.4.0
+  crypto: ^3.0.3
   shelf: ^1.4.0
+  shelf_cors_headers: ^0.1.5
   shelf_router: ^1.1.0
 
 dev_dependencies:

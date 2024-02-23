@@ -13,6 +13,7 @@ pids
 
 
 .idea
+.vscode
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release

@@ -4,6 +4,10 @@ This challenge is to build your own URL shortening service. Think bit.ly or tiny
 
 The full challenge description can be found [here](https://codingchallenges.fyi/challenges/challenge-url-shortener)
 
+## Example
+
+![Video](./example/ShortenedUrl.mp4)
+
 # Running the server
 
 ## Running with the Dart SDK
