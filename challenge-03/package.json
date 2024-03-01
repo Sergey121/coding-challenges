@@ -1,0 +1,17 @@
+{
+  "name": "challenge-03",
+  "version": "1.0.0",
+  "description": "This challenge is to build your own JSON parser.",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
