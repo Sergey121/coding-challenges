@@ -1,6 +1,6 @@
 #!/usr/bin/env dart
 
-import 'package:challenge_01_dart/challenge_01_dart.dart';
+import '../lib/challenge_01_dart.dart';
 
 void main(List<String> arguments) {
   String? fileName;

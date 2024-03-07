@@ -6,7 +6,7 @@ const tests = join(__dirname, 'tests');
 
 const files = readdirSync(tests);
 
-for (const file of files/*['fail26.json']*/) {
+for (const file of files) {
   try {
     const content = readFileSync(join(tests, file), 'utf-8');
     JSONParse(content);
